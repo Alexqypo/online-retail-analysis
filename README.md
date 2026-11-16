@@ -18,11 +18,11 @@
 - `notebooks/`: Jupyter Notebook с расчётами (Pandas, очистка данных, агрегации).
 - `data_export/`: агрегированные CSV-таблицы для Power BI.
 - `images/`: скриншот дашборда.
-- `powerbi/`: файл дашборда Power BI (`sales_dashboard.pbix`) — не загружен в GitHub из‑за размера. Ссылка на файл: [вставь ссылку на Яндекс Диск / Google Drive].
+- `powerbi/`: файл дашборда Power BI (`sales_dashboard.pbix`) — не загружен в GitHub из‑за размера.
 
 ## Результаты
 
-![Дашборд Power BI](images/dashboard_preview.pdf)
+(images/dashboard_preview.pdf)
 
 *Скриншот дашборда: карточки метрик, график выручки по месяцам, топ‑товары и страны.*
 
